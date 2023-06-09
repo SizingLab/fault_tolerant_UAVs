@@ -1,6 +1,6 @@
 Install
 -------
-You can install the required dependencies by opening a command prompt in the unziped folder and run the following command:
+You can install the required dependencies by opening a command prompt in the unzipped folder and run the following command:
 ``` {.bash}
 $ pip install -r requirements.txt
 ```
