@@ -1,3 +1,7 @@
+A methodology for the controllability assessment and fault-tolerant sizing of unmanned aerial vehicles under control surface and rotor failures
+-------
+This GitHub repository provides the functions for evaluating the controllability of fixed-wing and hybrid FW-VTOL UAVs under failure scenarios. It also enables the calculation of sizing factors for achieving fault-tolerant sizing of the control surfaces and rotors.
+
 Install
 -------
 You can install the required dependencies by opening a command prompt in the unzipped folder and run the following command:
